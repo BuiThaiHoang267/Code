@@ -1,0 +1,6 @@
+﻿  Logistics.cpp
+D:\code\Lab5&&Ontapcuoiki__OOP\Logistics\Logistics.cpp(41,12): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\Logistics\Logistics.cpp(55,12): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\Logistics\Logistics.cpp(69,12): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\Logistics\Logistics.cpp(80,34): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  Logistics.vcxproj -> D:\code\Lab5&&Ontapcuoiki__OOP\x64\Debug\Logistics.exe

@@ -1,0 +1,5 @@
+﻿  LB.cpp
+D:\code\Lab5&&Ontapcuoiki__OOP\LB\LB.cpp(20,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\LB\LB.cpp(31,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\LB\LB.cpp(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LB.vcxproj -> D:\code\Lab5&&Ontapcuoiki__OOP\x64\Debug\LB.exe

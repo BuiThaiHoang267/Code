@@ -1,0 +1,3 @@
+﻿  DO_THI_VERSION3.cpp
+D:\code\DSA_OnThi\DO_THI_VERSION 3\DO_THI_VERSION3.cpp(38,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DO_THI_VERSION 3.vcxproj -> D:\code\DSA_OnThi\x64\Debug\DO_THI_VERSION 3.exe

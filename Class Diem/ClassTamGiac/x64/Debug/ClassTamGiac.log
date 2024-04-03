@@ -1,0 +1,6 @@
+﻿  ClassTamGiac.cpp
+D:\code\Class Diem\ClassTamGiac\ClassTamGiac.cpp(13,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\Class Diem\ClassTamGiac\ClassTamGiac.cpp(14,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\Class Diem\ClassTamGiac\ClassTamGiac.cpp(54,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\code\Class Diem\ClassTamGiac\ClassTamGiac.cpp(54,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ClassTamGiac.vcxproj -> D:\code\Class Diem\x64\Debug\ClassTamGiac.exe

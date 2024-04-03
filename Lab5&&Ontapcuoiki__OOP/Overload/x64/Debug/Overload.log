@@ -1,0 +1,3 @@
+﻿  Overload.cpp
+D:\code\Lab5&&Ontapcuoiki__OOP\Overload\Overload.cpp(171,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Overload.vcxproj -> D:\code\Lab5&&Ontapcuoiki__OOP\x64\Debug\Overload.exe

@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\code\OOP_T5\OOP_T5\FileName.cpp(13,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OOP_T5.vcxproj -> D:\code\OOP_T5\x64\Debug\OOP_T5.exe

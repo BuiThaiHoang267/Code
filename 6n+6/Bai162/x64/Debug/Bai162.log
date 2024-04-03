@@ -1,0 +1,3 @@
+﻿  Bai162.cpp
+D:\code\6n+6\Bai162\Bai162.cpp(13,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Bai162.vcxproj -> D:\code\6n+6\x64\Debug\Bai162.exe

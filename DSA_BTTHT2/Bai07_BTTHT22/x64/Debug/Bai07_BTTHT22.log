@@ -1,0 +1,3 @@
+﻿  Bai07_BTTH.cpp
+D:\code\DSA_BTTHT2\Bai07_BTTHT22\Bai07_BTTH.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai07_BTTHT22.vcxproj -> D:\code\DSA_BTTHT2\x64\Debug\Bai07_BTTHT22.exe

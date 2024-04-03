@@ -1,0 +1,5 @@
+﻿  Drakin.cpp
+D:\code\Lab5&&Ontapcuoiki__OOP\Drakin\Drakin.cpp(20,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\Drakin\Drakin.cpp(63,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\Drakin\Drakin.cpp(85,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Drakin.vcxproj -> D:\code\Lab5&&Ontapcuoiki__OOP\x64\Debug\Drakin.exe

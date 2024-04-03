@@ -1,0 +1,35 @@
+﻿  DO_THI_VERSION2.cpp
+D:\code\DSA_OnThi\DO_THI\DO_THI_VERSION2.cpp(33,31): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+D:\code\DSA_OnThi\DO_THI\DO_THI_VERSION2.cpp(61,30): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(172,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+D:\code\DSA_OnThi\DO_THI\DO_THI_VERSION2.cpp(52,40): message : see reference to function template instantiation 'std::pair<int,char>::pair<_Ty&,char&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Ty=__int64,
+              _Other1=__int64 &,
+              _Other2=char &
+          ]
+D:\code\DSA_OnThi\DO_THI\DO_THI_VERSION2.cpp(52,11): message : see reference to function template instantiation 'std::pair<int,char>::pair<_Ty&,char&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Ty=__int64,
+              _Other1=__int64 &,
+              _Other2=char &
+          ]
+  DO_THI.vcxproj -> D:\code\DSA_OnThi\x64\Debug\DO_THI.exe

@@ -1,0 +1,3 @@
+﻿  Cau5_T7.cpp
+D:\code\OOP_LYTHUYET\Cau5_T7\Cau5_T7.cpp(26,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Cau5_T7.vcxproj -> D:\code\OOP_LYTHUYET\x64\Debug\Cau5_T7.exe

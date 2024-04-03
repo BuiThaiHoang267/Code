@@ -1,0 +1,4 @@
+﻿  Bai004.cpp
+D:\code\DEQUY\Bai004\Bai004.cpp(23,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\code\DEQUY\Bai004\Bai004.cpp(24,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Bai004.vcxproj -> D:\code\DEQUY\x64\Debug\Bai004.exe

@@ -1,0 +1,12 @@
+﻿  Cau4_BTTHT3.cpp
+D:\code\DSA_THT3\Bai_4\Cau4_BTTHT3.cpp(135,25): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\code\DSA_THT3\Bai_4\Cau4_BTTHT3.cpp(137,25): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Bai_4.vcxproj -> D:\code\DSA_THT3\x64\Debug\Bai_4.exe

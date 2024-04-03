@@ -1,0 +1,13 @@
+﻿  THITH_OOP.cpp
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(120,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(123,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(126,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(179,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(186,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(221,51): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(226,55): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(231,52): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(234,53): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(237,52): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\ThiTH_OOP\THITH_OOP.cpp(195): warning C4715: 'EVN::TongCongSuat': not all control paths return a value
+  ThiTH_OOP.vcxproj -> D:\code\Lab5&&Ontapcuoiki__OOP\x64\Debug\ThiTH_OOP.exe

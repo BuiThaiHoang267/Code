@@ -1,0 +1,4 @@
+﻿  Bai09.cpp
+D:\code\OnTapChuong1\Bai09\Bai09.cpp(53,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\OnTapChuong1\Bai09\Bai09.cpp(56,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Bai09.vcxproj -> D:\code\OnTapChuong1\x64\Debug\Bai09.exe

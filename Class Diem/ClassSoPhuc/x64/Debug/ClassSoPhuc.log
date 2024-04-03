@@ -1,0 +1,6 @@
+﻿  ClassSoPhuc.cpp
+D:\code\Class Diem\ClassSoPhuc\ClassSoPhuc.cpp(27,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\Class Diem\ClassSoPhuc\ClassSoPhuc.cpp(28,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\Class Diem\ClassSoPhuc\ClassSoPhuc.cpp(34,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\Class Diem\ClassSoPhuc\ClassSoPhuc.cpp(35,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ClassSoPhuc.vcxproj -> D:\code\Class Diem\x64\Debug\ClassSoPhuc.exe

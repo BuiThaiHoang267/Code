@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\code\oop_t6\Class TamGiac\FileName.cpp(22,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\oop_t6\Class TamGiac\FileName.cpp(23,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Class TamGiac.vcxproj -> D:\code\oop_t6\x64\Debug\Class TamGiac.exe

@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai006", "Bai006\Bai006.pyproj", "{C1D922BE-1874-45FA-98CA-FE46630D9917}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai_001", "Bai_001\Bai_001.pyproj", "{BC0B240B-B1FB-4152-98CA-7390805A50C5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{F3EB0719-0015-4C89-BE6B-838DB87E7EF4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "So_Phuc", "So_Phuc\So_Phuc.pyproj", "{835C6EFA-0F87-4DB6-8241-A561FD59DEE7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Duong_Tron", "Duong_Tron\Duong_Tron.pyproj", "{391E2E19-8205-459D-B303-5EC5DA550ECD}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chi_Tiet_May", "Chi_Tiet_May\Chi_Tiet_May.pyproj", "{7D684B40-6B79-4BBF-A27E-24807D2E1891}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MachDien", "MachDien\MachDien.pyproj", "{654E5386-CD37-4142-9F4B-9FA7F9D3AC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1D922BE-1874-45FA-98CA-FE46630D9917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D922BE-1874-45FA-98CA-FE46630D9917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0B240B-B1FB-4152-98CA-7390805A50C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0B240B-B1FB-4152-98CA-7390805A50C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EB0719-0015-4C89-BE6B-838DB87E7EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EB0719-0015-4C89-BE6B-838DB87E7EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835C6EFA-0F87-4DB6-8241-A561FD59DEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835C6EFA-0F87-4DB6-8241-A561FD59DEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391E2E19-8205-459D-B303-5EC5DA550ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391E2E19-8205-459D-B303-5EC5DA550ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D684B40-6B79-4BBF-A27E-24807D2E1891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D684B40-6B79-4BBF-A27E-24807D2E1891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654E5386-CD37-4142-9F4B-9FA7F9D3AC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654E5386-CD37-4142-9F4B-9FA7F9D3AC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E738900B-27AC-46DD-B7E8-21752E83D432}
+	EndGlobalSection
+EndGlobal

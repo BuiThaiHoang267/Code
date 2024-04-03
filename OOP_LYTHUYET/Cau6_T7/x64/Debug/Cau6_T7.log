@@ -1,0 +1,4 @@
+﻿  Cau6_T7.cpp
+D:\code\OOP_LYTHUYET\Cau6_T7\Cau6_T7.cpp(33,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\code\OOP_LYTHUYET\Cau6_T7\Cau6_T7.cpp(37,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Cau6_T7.vcxproj -> D:\code\OOP_LYTHUYET\x64\Debug\Cau6_T7.exe

@@ -1,0 +1,10 @@
+﻿  bai6.cpp
+D:\code\OOP_BTTHT4\Bai6\bai6.cpp(32,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\OOP_BTTHT4\Bai6\bai6.cpp(41,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\code\OOP_BTTHT4\Bai6\bai6.cpp(49,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\code\OOP_BTTHT4\Bai6\bai6.cpp(57,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\code\OOP_BTTHT4\Bai6\bai6.cpp(77,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\code\OOP_BTTHT4\Bai6\bai6.cpp(177,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_BTTHT4\Bai6\bai6.cpp(180,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_BTTHT4\Bai6\bai6.cpp(183,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai6.vcxproj -> D:\code\OOP_BTTHT4\x64\Debug\Bai6.exe

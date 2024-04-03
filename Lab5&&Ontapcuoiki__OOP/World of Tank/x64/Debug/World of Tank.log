@@ -1,0 +1,14 @@
+﻿  WorldOfTank.cpp
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(10,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(35,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(82,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(91,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(100,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(114,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(149,72): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(160,72): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(172,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(172,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(186,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\World of Tank\WorldOfTank.cpp(200,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  World of Tank.vcxproj -> D:\code\Lab5&&Ontapcuoiki__OOP\x64\Debug\World of Tank.exe

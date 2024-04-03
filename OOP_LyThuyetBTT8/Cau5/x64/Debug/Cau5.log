@@ -1,0 +1,10 @@
+﻿  Cau5.cpp
+D:\code\OOP_LyThuyetBTT8\Cau5\Cau5.cpp(42,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\code\OOP_LyThuyetBTT8\Cau5\Cau5.cpp(57,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\code\OOP_LyThuyetBTT8\Cau5\Cau5.cpp(58,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\OOP_LyThuyetBTT8\Cau5\Cau5.cpp(70,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\code\OOP_LyThuyetBTT8\Cau5\Cau5.cpp(71,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\OOP_LyThuyetBTT8\Cau5\Cau5.cpp(83,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\code\OOP_LyThuyetBTT8\Cau5\Cau5.cpp(84,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\OOP_LyThuyetBTT8\Cau5\Cau5.cpp(162): warning C4715: 'TrangTrai::Menu': not all control paths return a value
+  Cau5.vcxproj -> D:\code\OOP_LyThuyetBTT8\x64\Debug\Cau5.exe

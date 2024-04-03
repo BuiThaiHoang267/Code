@@ -1,0 +1,12 @@
+﻿  sNT2.cpp
+D:\code\Solution1\soNT2\sNT2.cpp(34,16): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+D:\code\Solution1\soNT2\sNT2.cpp(40,20): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  soNT2.vcxproj -> D:\code\Solution1\x64\Debug\soNT2.exe

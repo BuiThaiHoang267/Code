@@ -1,0 +1,15 @@
+D:\code\C#CoBan\C#CoBan\bin\Debug\net6.0\C#CoBan.exe
+D:\code\C#CoBan\C#CoBan\bin\Debug\net6.0\C#CoBan.deps.json
+D:\code\C#CoBan\C#CoBan\bin\Debug\net6.0\C#CoBan.runtimeconfig.json
+D:\code\C#CoBan\C#CoBan\bin\Debug\net6.0\C#CoBan.dll
+D:\code\C#CoBan\C#CoBan\bin\Debug\net6.0\C#CoBan.pdb
+D:\code\C#CoBan\C#CoBan\obj\Debug\net6.0\C#CoBan.csproj.AssemblyReference.cache
+D:\code\C#CoBan\C#CoBan\obj\Debug\net6.0\C#CoBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#CoBan\C#CoBan\obj\Debug\net6.0\C#CoBan.AssemblyInfoInputs.cache
+D:\code\C#CoBan\C#CoBan\obj\Debug\net6.0\C#CoBan.AssemblyInfo.cs
+D:\code\C#CoBan\C#CoBan\obj\Debug\net6.0\C#CoBan.csproj.CoreCompileInputs.cache
+D:\code\C#CoBan\C#CoBan\obj\Debug\net6.0\C#CoBan.dll
+D:\code\C#CoBan\C#CoBan\obj\Debug\net6.0\refint\C#CoBan.dll
+D:\code\C#CoBan\C#CoBan\obj\Debug\net6.0\C#CoBan.pdb
+D:\code\C#CoBan\C#CoBan\obj\Debug\net6.0\C#CoBan.genruntimeconfig.cache
+D:\code\C#CoBan\C#CoBan\obj\Debug\net6.0\ref\C#CoBan.dll

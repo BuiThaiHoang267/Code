@@ -1,0 +1,5 @@
+﻿  SNYT2.cpp
+D:\code\Solution1\SoNguyenToSV2\SNYT2.cpp(23,32): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+D:\code\Solution1\SoNguyenToSV2\SNYT2.cpp(46,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\code\Solution1\SoNguyenToSV2\SNYT2.cpp(46,37): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+  SoNguyenToSV2.vcxproj -> D:\code\Solution1\x64\Debug\SoNguyenToSV2.exe

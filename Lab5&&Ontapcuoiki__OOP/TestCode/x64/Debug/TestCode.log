@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+D:\code\Lab5&&Ontapcuoiki__OOP\TestCode\FileName.cpp(136,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\TestCode\FileName.cpp(146,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\TestCode\FileName.cpp(156,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\TestCode\FileName.cpp(166,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TestCode.vcxproj -> D:\code\Lab5&&Ontapcuoiki__OOP\x64\Debug\TestCode.exe

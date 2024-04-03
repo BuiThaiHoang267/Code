@@ -1,0 +1,4 @@
+﻿  DuAn2.cpp
+D:\code\BinaryTree\DuAn2\DuAn2.cpp(104): warning C4715: 'Xuat': not all control paths return a value
+D:\code\BinaryTree\DuAn2\DuAn2.cpp(112): warning C4715: 'Xuat': not all control paths return a value
+  DuAn2.vcxproj -> D:\code\BinaryTree\x64\Debug\DuAn2.exe

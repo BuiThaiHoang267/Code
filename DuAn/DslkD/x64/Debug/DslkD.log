@@ -1,0 +1,3 @@
+﻿  dslk.cpp
+D:\code\DuAn\DslkD\dslk.cpp(50,10): warning C4553: '==': result of expression not used; did you intend '='?
+  DslkD.vcxproj -> D:\code\DuAn\x64\Debug\DslkD.exe

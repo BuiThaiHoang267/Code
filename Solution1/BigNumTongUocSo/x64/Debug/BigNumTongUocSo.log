@@ -1,0 +1,10 @@
+﻿  BNTongUocSo.cpp
+D:\code\Solution1\BigNumTongUocSo\BNTongUocSo.cpp(64,26): warning C4018: '<': signed/unsigned mismatch
+D:\code\Solution1\BigNumTongUocSo\BNTongUocSo.cpp(66,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\code\Solution1\BigNumTongUocSo\BNTongUocSo.cpp(74,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\code\Solution1\BigNumTongUocSo\BNTongUocSo.cpp(144,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Solution1\BigNumTongUocSo\BNTongUocSo.cpp(166,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Solution1\BigNumTongUocSo\BNTongUocSo.cpp(188,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Solution1\BigNumTongUocSo\BNTongUocSo.cpp(204,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Solution1\BigNumTongUocSo\BNTongUocSo.cpp(122): warning C4715: 'toNumber': not all control paths return a value
+  BigNumTongUocSo.vcxproj -> D:\code\Solution1\x64\Debug\BigNumTongUocSo.exe

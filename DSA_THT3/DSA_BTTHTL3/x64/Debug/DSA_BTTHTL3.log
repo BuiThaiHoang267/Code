@@ -1,0 +1,5 @@
+﻿  DSA_BTTHTL3.cpp
+D:\code\DSA_THT3\DSA_BTTHTL3\DSA_BTTHTL3.cpp(46,7): warning C4101: 'L': unreferenced local variable
+D:\code\DSA_THT3\DSA_BTTHTL3\DSA_BTTHTL3.cpp(45,7): warning C4101: 'l': unreferenced local variable
+D:\code\DSA_THT3\DSA_BTTHTL3\DSA_BTTHTL3.cpp(47,7): warning C4101: 'T': unreferenced local variable
+  DSA_BTTHTL3.vcxproj -> D:\code\DSA_THT3\x64\Debug\DSA_BTTHTL3.exe

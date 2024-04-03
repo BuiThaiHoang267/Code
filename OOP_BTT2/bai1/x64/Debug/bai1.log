@@ -1,0 +1,4 @@
+﻿  bai1.cpp
+D:\code\OOP_BTT2\bai1\bai1.cpp(65,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\code\OOP_BTT2\bai1\bai1.cpp(66,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  bai1.vcxproj -> D:\code\OOP_BTT2\x64\Debug\bai1.exe

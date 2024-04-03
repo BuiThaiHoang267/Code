@@ -1,0 +1,5 @@
+﻿  Cau4_T7.cpp
+D:\code\OOP_LYTHUYET\Cau4_T7\Cau4_T7.cpp(24,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_LYTHUYET\Cau4_T7\Cau4_T7.cpp(25,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_LYTHUYET\Cau4_T7\Cau4_T7.cpp(78,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Cau4_T7.vcxproj -> D:\code\OOP_LYTHUYET\x64\Debug\Cau4_T7.exe

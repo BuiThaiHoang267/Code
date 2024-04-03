@@ -1,0 +1,5 @@
+﻿  LoveIsWas.cpp
+D:\code\Lab5&&Ontapcuoiki__OOP\LoveIsWas\LoveIsWas.cpp(61,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\LoveIsWas\LoveIsWas.cpp(63,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\code\Lab5&&Ontapcuoiki__OOP\LoveIsWas\LoveIsWas.cpp(64,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  LoveIsWas.vcxproj -> D:\code\Lab5&&Ontapcuoiki__OOP\x64\Debug\LoveIsWas.exe

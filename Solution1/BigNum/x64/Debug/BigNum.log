@@ -1,0 +1,7 @@
+﻿  BigNum.cpp
+D:\code\Solution1\BigNum\BigNum.cpp(117,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Solution1\BigNum\BigNum.cpp(139,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Solution1\BigNum\BigNum.cpp(161,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Solution1\BigNum\BigNum.cpp(177,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\Solution1\BigNum\BigNum.cpp(95): warning C4715: 'toNumber': not all control paths return a value
+  BigNum.vcxproj -> D:\code\Solution1\x64\Debug\BigNum.exe

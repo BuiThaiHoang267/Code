@@ -1,0 +1,7 @@
+﻿  Cau2.cpp
+D:\code\OOP_BTTHT4\Cau2\Cau2.cpp(17,45): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_BTTHT4\Cau2\Cau2.cpp(18,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_BTTHT4\Cau2\Cau2.cpp(34,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_BTTHT4\Cau2\Cau2.cpp(35,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_BTTHT4\Cau2\Cau2.cpp(38,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Cau2.vcxproj -> D:\code\OOP_BTTHT4\x64\Debug\Cau2.exe

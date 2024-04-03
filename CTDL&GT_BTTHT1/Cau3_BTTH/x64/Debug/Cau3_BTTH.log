@@ -1,0 +1,3 @@
+﻿  Cau3_BTTH.cpp
+D:\code\CTDL&GT_BTTHT1\Cau3_BTTH\Cau3_BTTH.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Cau3_BTTH.vcxproj -> D:\code\CTDL&GT_BTTHT1\x64\Debug\Cau3_BTTH.exe

@@ -1,0 +1,7 @@
+﻿  DemUoc4.cpp
+D:\code\Solution1\DemUoc4\DemUoc4.cpp(27,9): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  DemUoc4.vcxproj -> D:\code\Solution1\x64\Debug\DemUoc4.exe

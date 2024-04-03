@@ -1,0 +1,13 @@
+﻿  Demusn!.cpp
+D:\code\Solution1\DemUocSoN!\Demusn!.cpp(34,19): warning C4244: '/=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+D:\code\Solution1\DemUocSoN!\Demusn!.cpp(50,49): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\code\Solution1\DemUocSoN!\Demusn!.cpp(73,19): warning C4244: '/=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  DemUocSoN!.vcxproj -> D:\code\Solution1\x64\Debug\DemUocSoN!.exe

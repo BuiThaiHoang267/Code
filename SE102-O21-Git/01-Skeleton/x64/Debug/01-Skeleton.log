@@ -1,0 +1,1 @@
+﻿D:\code\SE102-O21-Git\01-Skeleton\01-Skeleton.vcxproj(149,5): error : This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is ..\packages\Microsoft.DXSDK.D3DX.9.29.952.8\build\native\Microsoft.DXSDK.D3DX.targets.

@@ -1,0 +1,15 @@
+D:\code\OOPC#\OOPC#\bin\Debug\net6.0\OOPC#.exe
+D:\code\OOPC#\OOPC#\bin\Debug\net6.0\OOPC#.deps.json
+D:\code\OOPC#\OOPC#\bin\Debug\net6.0\OOPC#.runtimeconfig.json
+D:\code\OOPC#\OOPC#\bin\Debug\net6.0\OOPC#.dll
+D:\code\OOPC#\OOPC#\bin\Debug\net6.0\OOPC#.pdb
+D:\code\OOPC#\OOPC#\obj\Debug\net6.0\OOPC#.csproj.AssemblyReference.cache
+D:\code\OOPC#\OOPC#\obj\Debug\net6.0\OOPC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\OOPC#\OOPC#\obj\Debug\net6.0\OOPC#.AssemblyInfoInputs.cache
+D:\code\OOPC#\OOPC#\obj\Debug\net6.0\OOPC#.AssemblyInfo.cs
+D:\code\OOPC#\OOPC#\obj\Debug\net6.0\OOPC#.csproj.CoreCompileInputs.cache
+D:\code\OOPC#\OOPC#\obj\Debug\net6.0\OOPC#.dll
+D:\code\OOPC#\OOPC#\obj\Debug\net6.0\refint\OOPC#.dll
+D:\code\OOPC#\OOPC#\obj\Debug\net6.0\OOPC#.pdb
+D:\code\OOPC#\OOPC#\obj\Debug\net6.0\OOPC#.genruntimeconfig.cache
+D:\code\OOPC#\OOPC#\obj\Debug\net6.0\ref\OOPC#.dll

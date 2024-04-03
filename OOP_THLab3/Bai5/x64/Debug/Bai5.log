@@ -1,0 +1,6 @@
+﻿  Bai5.cpp
+D:\code\OOP_THLab3\Bai5\Bai5.cpp(117,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_THLab3\Bai5\Bai5.cpp(121,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_THLab3\Bai5\Bai5.cpp(124,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\code\OOP_THLab3\Bai5\Bai5.cpp(127,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Bai5.vcxproj -> D:\code\OOP_THLab3\x64\Debug\Bai5.exe

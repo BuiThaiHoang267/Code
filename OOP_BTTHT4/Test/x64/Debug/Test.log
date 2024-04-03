@@ -1,0 +1,3 @@
+﻿  Test.cpp
+D:\code\OOP_BTTHT4\Test\Test.cpp(14,9): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Test.vcxproj -> D:\code\OOP_BTTHT4\x64\Debug\Test.exe

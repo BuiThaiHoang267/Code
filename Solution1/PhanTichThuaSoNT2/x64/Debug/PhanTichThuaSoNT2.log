@@ -1,0 +1,12 @@
+﻿  PTTSNT2.cpp
+D:\code\Solution1\PhanTichThuaSoNT2\PTTSNT2.cpp(41,16): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+D:\code\Solution1\PhanTichThuaSoNT2\PTTSNT2.cpp(47,20): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  PhanTichThuaSoNT2.vcxproj -> D:\code\Solution1\x64\Debug\PhanTichThuaSoNT2.exe

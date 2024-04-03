@@ -1,0 +1,15 @@
+D:\code\OOP_PhanSo\OOP_PhanSo\bin\Debug\net6.0\OOP_PhanSo.exe
+D:\code\OOP_PhanSo\OOP_PhanSo\bin\Debug\net6.0\OOP_PhanSo.deps.json
+D:\code\OOP_PhanSo\OOP_PhanSo\bin\Debug\net6.0\OOP_PhanSo.runtimeconfig.json
+D:\code\OOP_PhanSo\OOP_PhanSo\bin\Debug\net6.0\OOP_PhanSo.dll
+D:\code\OOP_PhanSo\OOP_PhanSo\bin\Debug\net6.0\OOP_PhanSo.pdb
+D:\code\OOP_PhanSo\OOP_PhanSo\obj\Debug\net6.0\OOP_PhanSo.csproj.AssemblyReference.cache
+D:\code\OOP_PhanSo\OOP_PhanSo\obj\Debug\net6.0\OOP_PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\OOP_PhanSo\OOP_PhanSo\obj\Debug\net6.0\OOP_PhanSo.AssemblyInfoInputs.cache
+D:\code\OOP_PhanSo\OOP_PhanSo\obj\Debug\net6.0\OOP_PhanSo.AssemblyInfo.cs
+D:\code\OOP_PhanSo\OOP_PhanSo\obj\Debug\net6.0\OOP_PhanSo.csproj.CoreCompileInputs.cache
+D:\code\OOP_PhanSo\OOP_PhanSo\obj\Debug\net6.0\OOP_PhanSo.dll
+D:\code\OOP_PhanSo\OOP_PhanSo\obj\Debug\net6.0\refint\OOP_PhanSo.dll
+D:\code\OOP_PhanSo\OOP_PhanSo\obj\Debug\net6.0\OOP_PhanSo.pdb
+D:\code\OOP_PhanSo\OOP_PhanSo\obj\Debug\net6.0\OOP_PhanSo.genruntimeconfig.cache
+D:\code\OOP_PhanSo\OOP_PhanSo\obj\Debug\net6.0\ref\OOP_PhanSo.dll

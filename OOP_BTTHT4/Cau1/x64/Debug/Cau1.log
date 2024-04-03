@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\code\OOP_BTTHT4\Cau1\FileName.cpp(55,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\code\OOP_BTTHT4\Cau1\FileName.cpp(67,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Cau1.vcxproj -> D:\code\OOP_BTTHT4\x64\Debug\Cau1.exe

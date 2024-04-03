@@ -1,0 +1,3 @@
+﻿  Bai012.cpp
+D:\code\6n+6\Bai012\Bai012.cpp(15,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai012.vcxproj -> D:\code\6n+6\x64\Debug\Bai012.exe

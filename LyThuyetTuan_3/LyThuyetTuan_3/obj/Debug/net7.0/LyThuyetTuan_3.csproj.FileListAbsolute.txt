@@ -1,0 +1,14 @@
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\bin\Debug\net7.0\LyThuyetTuan_3.exe
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\bin\Debug\net7.0\LyThuyetTuan_3.deps.json
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\bin\Debug\net7.0\LyThuyetTuan_3.runtimeconfig.json
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\bin\Debug\net7.0\LyThuyetTuan_3.dll
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\bin\Debug\net7.0\LyThuyetTuan_3.pdb
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\obj\Debug\net7.0\LyThuyetTuan_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\obj\Debug\net7.0\LyThuyetTuan_3.AssemblyInfoInputs.cache
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\obj\Debug\net7.0\LyThuyetTuan_3.AssemblyInfo.cs
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\obj\Debug\net7.0\LyThuyetTuan_3.csproj.CoreCompileInputs.cache
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\obj\Debug\net7.0\LyThuyetTuan_3.dll
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\obj\Debug\net7.0\refint\LyThuyetTuan_3.dll
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\obj\Debug\net7.0\LyThuyetTuan_3.pdb
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\obj\Debug\net7.0\LyThuyetTuan_3.genruntimeconfig.cache
+D:\code\LyThuyetTuan_3\LyThuyetTuan_3\obj\Debug\net7.0\ref\LyThuyetTuan_3.dll

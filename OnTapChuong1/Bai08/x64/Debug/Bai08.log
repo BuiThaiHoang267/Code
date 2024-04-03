@@ -1,0 +1,3 @@
+﻿  Bai08.cpp
+D:\code\OnTapChuong1\Bai08\Bai08.cpp(56,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Bai08.vcxproj -> D:\code\OnTapChuong1\x64\Debug\Bai08.exe

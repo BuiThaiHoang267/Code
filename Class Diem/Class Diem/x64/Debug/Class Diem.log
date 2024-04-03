@@ -1,0 +1,3 @@
+﻿  ClassDiem.cpp
+D:\code\Class Diem\Class Diem\ClassDiem.cpp(49,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Class Diem.vcxproj -> D:\code\Class Diem\x64\Debug\Class Diem.exe
